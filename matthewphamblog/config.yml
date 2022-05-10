@@ -26,9 +26,6 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
-                  weight: 5
                 - name: Search
                   url: search/
                   weight: 10
@@ -40,9 +37,6 @@ languages:
                   weight: 10
         menu:
             main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
                 - name: Contact
                   url: contact
                   weight: 10
@@ -61,7 +55,7 @@ params:
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: false
+    ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true

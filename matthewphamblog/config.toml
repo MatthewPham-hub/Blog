@@ -1,0 +1,4 @@
+baseURL = 'https://MatthewPham-hub.github.io/'
+languageCode = 'en-us'
+title = 'Matthew Pham Personal Site'
+theme = 'hugo-PaperMod'

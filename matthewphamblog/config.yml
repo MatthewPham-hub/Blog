@@ -82,7 +82,7 @@ params:
     homeInfoParams:
         Title: "Matthew Pham "
         Content: >
-            Personal Website and blog of Matthew Pham.
+            Personal website and blog of Matthew Pham.
     socialIcons:
         - name: github
           url: "https://github.com/MatthewPham-hub"
